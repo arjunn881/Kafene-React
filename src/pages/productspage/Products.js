@@ -74,7 +74,7 @@ const Products = () => {
     return (
         <main className="main_container">
             <div className="Homepage_PageWrapper">
-                <h1 className="Homepage_MainHeading">Orders</h1>
+                <h1 className="Homepage_MainHeading">Products</h1>
                 <div className="Homepage_OrdersWrapper">
                     <div className="Homepage_FilterWrapper">
                         <h3>Filters</h3>
